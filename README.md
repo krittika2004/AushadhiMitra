@@ -6,6 +6,9 @@ A Pharmacist’s assistant that automatically reads handwritten prescriptions an
 ## Problem Statement
 Handwritten prescriptions are often difficult to read, leading to potential medication errors for patients and manual transcription burdens for pharmacists. This system leverages a VLM to digitize prescriptions, ensuring accurate medicine dispensing and automated data entry.
 
+## Access code
+You can access the jupyter notebook to view the code.
+
 ## Design Idea and Approach
 ### Technologies proposed to be Used:
 - **VLM**: Open-source models like Ollama for handwriting recognition.
